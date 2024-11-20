@@ -1,5 +1,5 @@
 {
-	"name": "uniqid",
+	"name": "uniqid-generator",
 	"version": "1.0.0",
 	"description": "Generate GUID, nanoId,OTP number string",
 	"main": "dist/main.js",
@@ -22,6 +22,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/dmsammusic/uniqId-generator.git"
+		"url": "git+https://github.com/dmsammusic/uniqId-generator.git"
 	}
 }
